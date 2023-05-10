@@ -1,0 +1,4 @@
+este proyecto lo hice para leer temperaturas en una raspberry pi o en una orangepi
+Es un proyecto para leer temperaturas de refrigeradores
+la carpeta webserver es lo que debe estar en el servidor o cualquier hosting
+mientras que los archivos ejecutor leen y suben los registros de temperatura usando el metodo get.

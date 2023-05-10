@@ -1,0 +1,1 @@
+*/15 * * * * sh /home/server/ejecutor.sh
